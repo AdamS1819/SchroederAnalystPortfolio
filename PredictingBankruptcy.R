@@ -1,6 +1,6 @@
 #Final Project
 #bankruptcy Classification
-#Elaine Guthrie, Adam Schroeder
+#Adam Schroeder
 library(ISLR2)
 train_bank <- read.csv("~/Desktop/train.csv", header=TRUE)
 dim(train_bank)
